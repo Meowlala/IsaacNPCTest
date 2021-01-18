@@ -1,0 +1,395 @@
+Stage 1
+Room Enemy Readout (100000)
+Note that if an entity is specified by the npctest command, it will not be morphed due to how MC_PRE_ROOM_ENTITY_SPAWN, so you must use a different room command instead.
+
+Percent Champion: 19.9060%
+Percent Morphed: 0.0000%
+
+Champion Colors
+0: 9.5951% of Champions
+1: 9.5248% of Champions
+2: 9.7307% of Champions
+3: 5.4104% of Champions
+4: 5.6063% of Champions
+5: 9.9317% of Champions
+6: 0.0000% of Champions
+7: 9.9769% of Champions
+8: 0.0000% of Champions
+9: 0.0000% of Champions
+10: 9.6403% of Champions
+11: 0.0000% of Champions
+12: 5.0487% of Champions
+13: 9.0978% of Champions
+14: 2.7228% of Champions
+15: 2.7630% of Champions
+16: 2.7831% of Champions
+17: 2.8986% of Champions
+18: 2.7781% of Champions
+19: 2.4917% of Champions
+20: 0.0000% of Champions
+21: 0.0000% of Champions
+22: 0.0000% of Champions
+23: 0.0000% of Champions
+
+Stage 2
+Room Enemy Readout (100000)
+Note that if an entity is specified by the npctest command, it will not be morphed due to how MC_PRE_ROOM_ENTITY_SPAWN, so you must use a different room command instead.
+
+Percent Champion: 20.0720%
+Percent Morphed: 0.0000%
+
+Champion Colors
+0: 9.3962% of Champions
+1: 9.6253% of Champions
+2: 9.2816% of Champions
+3: 5.3458% of Champions
+4: 5.5151% of Champions
+5: 9.5257% of Champions
+6: 0.0000% of Champions
+7: 9.8695% of Champions
+8: 0.0000% of Champions
+9: 0.0000% of Champions
+10: 9.7399% of Champions
+11: 0.0000% of Champions
+12: 5.4504% of Champions
+13: 9.7947% of Champions
+14: 2.5359% of Champions
+15: 2.7850% of Champions
+16: 2.7900% of Champions
+17: 2.8398% of Champions
+18: 2.7551% of Champions
+19: 2.7501% of Champions
+20: 0.0000% of Champions
+21: 0.0000% of Champions
+22: 0.0000% of Champions
+23: 0.0000% of Champions
+
+Stage 3
+Room Enemy Readout (100000)
+Note that if an entity is specified by the npctest command, it will not be morphed due to how MC_PRE_ROOM_ENTITY_SPAWN, so you must use a different room command instead.
+
+Percent Champion: 19.9820%
+Percent Morphed: 0.0000%
+
+Champion Colors
+0: 9.7838% of Champions
+1: 10.0591% of Champions
+2: 9.6337% of Champions
+3: 5.3748% of Champions
+4: 5.2147% of Champions
+5: 9.6687% of Champions
+6: 0.0000% of Champions
+7: 9.3935% of Champions
+8: 0.0000% of Champions
+9: 0.0000% of Champions
+10: 9.6637% of Champions
+11: 0.0000% of Champions
+12: 5.3048% of Champions
+13: 9.5736% of Champions
+14: 2.7124% of Champions
+15: 2.5873% of Champions
+16: 2.7425% of Champions
+17: 2.8626% of Champions
+18: 2.6724% of Champions
+19: 2.7525% of Champions
+20: 0.0000% of Champions
+21: 0.0000% of Champions
+22: 0.0000% of Champions
+23: 0.0000% of Champions
+
+Stage 4
+Room Enemy Readout (100000)
+Note that if an entity is specified by the npctest command, it will not be morphed due to how MC_PRE_ROOM_ENTITY_SPAWN, so you must use a different room command instead.
+
+Percent Champion: 19.8110%
+Percent Morphed: 0.0000%
+
+Champion Colors
+0: 9.7774% of Champions
+1: 9.7118% of Champions
+2: 9.7269% of Champions
+3: 5.4566% of Champions
+4: 5.4162% of Champions
+5: 9.4796% of Champions
+6: 0.0000% of Champions
+7: 9.3483% of Champions
+8: 0.0000% of Champions
+9: 0.0000% of Champions
+10: 9.7269% of Champions
+11: 0.0000% of Champions
+12: 5.4616% of Champions
+13: 9.4241% of Champions
+14: 2.7308% of Champions
+15: 2.7459% of Champions
+16: 2.7611% of Champions
+17: 2.5794% of Champions
+18: 2.8419% of Champions
+19: 2.8116% of Champions
+20: 0.0000% of Champions
+21: 0.0000% of Champions
+22: 0.0000% of Champions
+23: 0.0000% of Champions
+
+Stage 5
+Room Enemy Readout (100000)
+Note that if an entity is specified by the npctest command, it will not be morphed due to how MC_PRE_ROOM_ENTITY_SPAWN, so you must use a different room command instead.
+
+Percent Champion: 19.9640%
+Percent Morphed: 0.0000%
+
+Champion Colors
+0: 8.6055% of Champions
+1: 9.2266% of Champions
+2: 8.8609% of Champions
+3: 3.6716% of Champions
+4: 3.4763% of Champions
+5: 8.5504% of Champions
+6: 1.0319% of Champions
+7: 9.1615% of Champions
+8: 1.5778% of Champions
+9: 1.3625% of Champions
+10: 8.4652% of Champions
+11: 1.6329% of Champions
+12: 3.6065% of Champions
+13: 8.8960% of Champions
+14: 2.7449% of Champions
+15: 2.6949% of Champions
+16: 2.6247% of Champions
+17: 2.6297% of Champions
+18: 2.8050% of Champions
+19: 2.9453% of Champions
+20: 1.4125% of Champions
+21: 1.3925% of Champions
+22: 1.3524% of Champions
+23: 1.2723% of Champions
+
+Stage 6
+Room Enemy Readout (100000)
+Note that if an entity is specified by the npctest command, it will not be morphed due to how MC_PRE_ROOM_ENTITY_SPAWN, so you must use a different room command instead.
+
+Percent Champion: 19.8480%
+Percent Morphed: 0.0000%
+
+Champion Colors
+0: 8.9127% of Champions
+1: 8.9530% of Champions
+2: 8.9379% of Champions
+3: 3.7636% of Champions
+4: 3.5621% of Champions
+5: 8.7565% of Champions
+6: 1.1034% of Champions
+7: 8.8875% of Champions
+8: 1.4057% of Champions
+9: 1.7231% of Champions
+10: 8.6104% of Champions
+11: 1.4006% of Champions
+12: 3.6225% of Champions
+13: 8.3132% of Champions
+14: 2.9071% of Champions
+15: 2.4788% of Champions
+16: 2.9222% of Champions
+17: 2.7207% of Champions
+18: 2.6904% of Champions
+19: 2.7005% of Champions
+20: 1.4611% of Champions
+21: 1.3452% of Champions
+22: 1.4813% of Champions
+23: 1.3402% of Champions
+
+Stage 7
+Room Enemy Readout (100000)
+Note that if an entity is specified by the npctest command, it will not be morphed due to how MC_PRE_ROOM_ENTITY_SPAWN, so you must use a different room command instead.
+
+Percent Champion: 19.8510%
+Percent Morphed: 0.0000%
+
+Champion Colors
+0: 9.0927% of Champions
+1: 8.7603% of Champions
+2: 8.9517% of Champions
+3: 3.5515% of Champions
+4: 3.6572% of Champions
+5: 8.6343% of Champions
+6: 1.0377% of Champions
+7: 8.7502% of Champions
+8: 1.4004% of Champions
+9: 1.4407% of Champions
+10: 8.7250% of Champions
+11: 1.4911% of Champions
+12: 3.4406% of Champions
+13: 9.0625% of Champions
+14: 2.7253% of Champions
+15: 2.8664% of Champions
+16: 2.7052% of Champions
+17: 2.6397% of Champions
+18: 2.8664% of Champions
+19: 2.7203% of Champions
+20: 1.3652% of Champions
+21: 1.4760% of Champions
+22: 1.3954% of Champions
+23: 1.2443% of Champions
+
+Stage 8
+Room Enemy Readout (100000)
+Note that if an entity is specified by the npctest command, it will not be morphed due to how MC_PRE_ROOM_ENTITY_SPAWN, so you must use a different room command instead.
+
+Percent Champion: 19.7830%
+Percent Morphed: 0.0000%
+
+Champion Colors
+0: 9.1897% of Champions
+1: 8.5730% of Champions
+2: 8.8915% of Champions
+3: 3.7305% of Champions
+4: 3.5839% of Champions
+5: 8.6741% of Champions
+6: 1.0716% of Champions
+7: 9.0178% of Champions
+8: 1.3648% of Champions
+9: 1.2435% of Champions
+10: 8.6589% of Champions
+11: 1.3042% of Champions
+12: 3.6698% of Champions
+13: 8.8915% of Champions
+14: 2.6235% of Champions
+15: 2.9874% of Champions
+16: 2.8610% of Champions
+17: 2.6993% of Champions
+18: 2.6892% of Champions
+19: 2.7145% of Champions
+20: 1.3193% of Champions
+21: 1.4811% of Champions
+22: 1.5063% of Champions
+23: 1.2536% of Champions
+
+Stage 9
+Room Enemy Readout (100000)
+Note that if an entity is specified by the npctest command, it will not be morphed due to how MC_PRE_ROOM_ENTITY_SPAWN, so you must use a different room command instead.
+
+Percent Champion: 20.1110%
+Percent Morphed: 0.0000%
+
+Champion Colors
+0: 9.0199% of Champions
+1: 8.9752% of Champions
+2: 8.5376% of Champions
+3: 3.5851% of Champions
+4: 3.7989% of Champions
+5: 8.9752% of Champions
+6: 1.1039% of Champions
+7: 9.0249% of Champions
+8: 1.4818% of Champions
+9: 1.4768% of Champions
+10: 8.8509% of Champions
+11: 1.3823% of Champions
+12: 3.5950% of Champions
+13: 8.9652% of Champions
+14: 2.6752% of Champions
+15: 2.6752% of Champions
+16: 2.6851% of Champions
+17: 2.6055% of Champions
+18: 2.8392% of Champions
+19: 2.8641% of Champions
+20: 1.2431% of Champions
+21: 1.3624% of Champions
+22: 1.1486% of Champions
+23: 1.1287% of Champions
+
+Stage 10
+Room Enemy Readout (100000)
+Note that if an entity is specified by the npctest command, it will not be morphed due to how MC_PRE_ROOM_ENTITY_SPAWN, so you must use a different room command instead.
+
+Percent Champion: 19.8400%
+Percent Morphed: 0.0000%
+
+Champion Colors
+0: 8.9063% of Champions
+1: 8.9012% of Champions
+2: 8.4980% of Champions
+3: 3.4274% of Champions
+4: 3.6442% of Champions
+5: 8.7550% of Champions
+6: 1.0232% of Champions
+7: 8.6038% of Champions
+8: 1.5272% of Champions
+9: 1.3558% of Champions
+10: 8.8911% of Champions
+11: 1.2853% of Champions
+12: 3.7702% of Champions
+13: 8.8810% of Champions
+14: 2.6966% of Champions
+15: 2.7823% of Champions
+16: 2.9083% of Champions
+17: 2.9335% of Champions
+18: 2.7571% of Champions
+19: 2.8528% of Champions
+20: 1.4315% of Champions
+21: 1.4012% of Champions
+22: 1.3458% of Champions
+23: 1.4214% of Champions
+
+Stage 11
+Room Enemy Readout (100000)
+Note that if an entity is specified by the npctest command, it will not be morphed due to how MC_PRE_ROOM_ENTITY_SPAWN, so you must use a different room command instead.
+
+Percent Champion: 20.0730%
+Percent Morphed: 0.0000%
+
+Champion Colors
+0: 8.5787% of Champions
+1: 8.8676% of Champions
+2: 9.0669% of Champions
+3: 3.7413% of Champions
+4: 3.5172% of Champions
+5: 8.9473% of Champions
+6: 1.3202% of Champions
+7: 8.6385% of Champions
+8: 1.2704% of Champions
+9: 1.5792% of Champions
+10: 8.9872% of Champions
+11: 1.6589% of Champions
+12: 3.5769% of Champions
+13: 8.5887% of Champions
+14: 2.7599% of Champions
+15: 2.7599% of Champions
+16: 2.6752% of Champions
+17: 2.6802% of Champions
+18: 2.7699% of Champions
+19: 2.8396% of Champions
+20: 1.3102% of Champions
+21: 1.3800% of Champions
+22: 1.2753% of Champions
+23: 1.2106% of Champions
+
+Stage 12
+Room Enemy Readout (100000)
+Note that if an entity is specified by the npctest command, it will not be morphed due to how MC_PRE_ROOM_ENTITY_SPAWN, so you must use a different room command instead.
+
+Percent Champion: 74.9650%
+Percent Morphed: 0.0000%
+
+Champion Colors
+0: 9.4297% of Champions
+1: 9.2030% of Champions
+2: 9.2670% of Champions
+3: 3.2922% of Champions
+4: 3.2695% of Champions
+5: 9.2603% of Champions
+6: 1.0258% of Champions
+7: 9.1083% of Champions
+8: 1.3340% of Champions
+9: 1.4500% of Champions
+10: 9.2510% of Champions
+11: 1.3953% of Champions
+12: 3.4203% of Champions
+13: 9.3150% of Champions
+14: 2.5065% of Champions
+15: 2.5452% of Champions
+16: 2.5505% of Champions
+17: 2.5212% of Champions
+18: 2.3945% of Champions
+19: 2.5038% of Champions
+20: 1.2993% of Champions
+21: 1.2246% of Champions
+22: 1.2499% of Champions
+23: 1.1832% of Champions
